@@ -1,0 +1,26 @@
+{
+  "name": "Sketch Play",
+  "identifier": "com.sureskumar.sketchplay",
+  "version": "1.0.0",
+  "compatibleVersion": "40.0",
+  "appcast": "http://www.sureskumar.com/sketchplay/sketchplay.xml",
+  "description": "Create game plays directly from Sketch",
+  "icon" : "http://www.sureskumar.com/sketchplay/images/logo.png",
+  "author": "Sures Kumar",
+  "authorEmail": "sures.srinivasan@gmail.com",
+  "homepage": "http://www.sureskumar.com",
+  "menu": {
+    "isRoot": true,
+    "items": [
+      "play"
+    ],
+    "title": "Sketch Play"
+  },
+  "commands": [{
+    "name": "Sketch Play",
+    "shortcut": "cmd j",
+    "identifier": "play",
+    "handler": "onRun",
+    "script": "sketchplay.js"
+  }]
+}
