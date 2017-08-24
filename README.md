@@ -1,4 +1,4 @@
-# sketch-play
+# Sketch Play
 Create game plays directly from Sketch app.
 
 <img target="_blank" src="http://www.sureskumar.com/looper/github_imgs/looper.gif">
