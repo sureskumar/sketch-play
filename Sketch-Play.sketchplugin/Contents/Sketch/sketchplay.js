@@ -128,7 +128,7 @@ var onRun = function( context )
 		}
 
 		var str = artboard.name();
-		var sendArtboardName = str.replace(" ", "?");
+		var sendArtboardName = str.replace(/ /g, "?");
 		expString = expString + sendArtboardName;
 
 		superDebug("expString", expString);
