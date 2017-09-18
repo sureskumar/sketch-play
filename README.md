@@ -1,6 +1,7 @@
 # Sketch Play
 Create game plays directly from Sketch app.
 
+![Sketch Play Demo](http://www.sureskumar.com/sketchplay/gifs/SP_001_GIF_888_low.gif)
 ![Sketch Play Demo](http://www.sureskumar.com/sketchplay/gifs/SP_006_GIF_888.gif)
 ![Sketch Play Demo](http://www.sureskumar.com/sketchplay/gifs/SP_002_GIF_888.gif)
 
