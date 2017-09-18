@@ -1,5 +1,6 @@
 # Sketch Play
-Create game plays directly from Sketch app. [More info / Project website](http://www.sureskumar.com/sketchplay/)
+An experimental plugin to create gameplays directly from Sketch. 
+Experience games created by Sketch Play [here](http://www.sureskumar.com/sketchplay/).
 
 ![Sketch Play Demo](http://www.sureskumar.com/sketchplay/gifs/SP_006_GIF_888.gif)
 ![Sketch Play Demo](http://www.sureskumar.com/sketchplay/gifs/SP_002_GIF_888.gif)
