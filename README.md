@@ -1,9 +1,8 @@
 # Sketch Play
 An experimental plugin to create gameplays directly from Sketch. 
-Experience games created by Sketch Play [here](http://www.sureskumar.com/sketchplay/).
 
-![Sketch Play Demo](http://www.sureskumar.com/sketchplay/gifs/SP_006_GIF_888.gif)
-![Sketch Play Demo](http://www.sureskumar.com/sketchplay/gifs/SP_002_GIF_888.gif)
+![Sketch Play Demo](https://github.com/sureskumar/sketch-play/raw/master/assets/SP_006_GIF_888.gif)
+![Sketch Play Demo](https://github.com/sureskumar/sketch-play/raw/master/assets/SP_002_GIF_888.gif)
 
 ## Installation
 
